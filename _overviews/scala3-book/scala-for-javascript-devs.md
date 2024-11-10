@@ -803,7 +803,7 @@ In Scala 2 they were almost identical, but with Scala 3, curly braces are no lon
       <td class="scala-block">
         <code>if x &lt; 0 then
         <br>&nbsp; println("negative")
-        <br>else if x == 0
+        <br>else if x == 0 then
         <br>&nbsp; println("zero")
         <br>else
         <br>&nbsp; println("positive")</code>
